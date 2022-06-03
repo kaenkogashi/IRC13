@@ -12,7 +12,7 @@ p2x1,	p2y1,	p2x2 ,p2y2: IRC's person2 bounding box upper left and lower right's 
 
 IRC_Id_1,	IRC_Id_2,	IRC_Id_3: IRC's social relationship ID.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-IRC_Ids are numbers from 0 to 51.
+IRC_Ids are numbers from 0 to 13.
 0:none
 1:Child-parent
 2:Child-other family elder
